@@ -1,0 +1,33 @@
+body{background: white;
+    text-align:center;}
+    h1{text-decoration:none;
+    color:pink}
+    
+    ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+            }
+    
+            li {
+                display:above;
+                margin-right: 10px;
+              margin-bottom:10px;
+              background:rgba(235, 141, 169, 0.781);
+              font-family:arial;
+              font-size:30px;
+              font-weight:bolder;
+            }
+    
+            a {
+                text-decoration: none;
+                color: gray;
+              
+            }
+    
+    .menu li:hover{
+    background:white;
+    color:nude(250, 188, 198);
+    
+    }
+      
